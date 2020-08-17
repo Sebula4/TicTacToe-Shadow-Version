@@ -1,0 +1,5 @@
+﻿  ShadowTicTacToe.cpp
+c:\users\shollabaugh\documents\visual studio 2015\projects\shadowtictactoe\shadowtictactoe\shadowtictactoe.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shollabaugh\documents\visual studio 2015\projects\shadowtictactoe\shadowtictactoe\boards.h(54): warning C4715: 'Boards::getConvIndex': not all control paths return a value
+  ShadowTicTacToe.vcxproj -> c:\users\shollabaugh\documents\visual studio 2015\Projects\ShadowTicTacToe\Debug\ShadowTicTacToe.exe
+  ShadowTicTacToe.vcxproj -> c:\users\shollabaugh\documents\visual studio 2015\Projects\ShadowTicTacToe\Debug\ShadowTicTacToe.pdb (Full PDB)
